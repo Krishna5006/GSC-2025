@@ -15,7 +15,7 @@ body {
     
     /* Background styling options */
     background-color: #f5f5f5; /* Fallback color */
-    background-image: url('/background_img/2d-codes-blog.thumbnail.png.x2d9e4d56\ \(1\).png'); /* Replace with your image path */
+    background-image: url('2d-codes-blog.thumbnail.png.x2d9e4d56\ \(1\).png'); /* Replace with your image path */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
