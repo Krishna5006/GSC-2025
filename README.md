@@ -7,7 +7,6 @@ Traditional voter registration and verification processes are:
 - Time-consuming
 - Prone to errors
 - Administratively complex
-- Especially challenging for young voters transitioning to eligibility
 
 ## Our Innovative Solution
 
