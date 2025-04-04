@@ -41,7 +41,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background-color: #ff4b60;
-    background-image: url('/background_img/Voting_UCT.jpg'); /* Add your image path here */
+    background-image: url('background image/Voting_UCT.jpg'); /* Add your image path here */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
