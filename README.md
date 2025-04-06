@@ -37,5 +37,8 @@ We've developed a cutting-edge verification system using an IoT-enabled scanner 
 - Prevents duplicate voting
 - Enhances overall electoral integrity
 
+## Data to be used for Trial of the Application 
+You can access Trial data for Aadhaar card and Ward login from Trial folder.
+
 ## Vision 
 We're not just creating an app – we're transforming the electoral process, making it more accessible, secure, and user-friendly for everyone.
