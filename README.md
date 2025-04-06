@@ -37,5 +37,5 @@ We've developed a cutting-edge verification system using an IoT-enabled scanner 
 - Prevents duplicate voting
 - Enhances overall electoral integrity
 
-## Vision
+## Vision 
 We're not just creating an app – we're transforming the electoral process, making it more accessible, secure, and user-friendly for everyone.
